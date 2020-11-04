@@ -32,12 +32,12 @@
     <app_ppm_conf.smart_rev_max_duty>0.07</app_ppm_conf.smart_rev_max_duty>
     <app_ppm_conf.smart_rev_ramp_time>3</app_ppm_conf.smart_rev_ramp_time>
     <app_adc_conf.ctrl_type>1</app_adc_conf.ctrl_type>
-    <app_adc_conf.hyst>0.03</app_adc_conf.hyst>
-    <app_adc_conf.voltage_start>0.68</app_adc_conf.voltage_start>
-    <app_adc_conf.voltage_end>2.08</app_adc_conf.voltage_end>
-    <app_adc_conf.voltage_center>1.73</app_adc_conf.voltage_center>
-    <app_adc_conf.voltage2_start>0.88</app_adc_conf.voltage2_start>
-    <app_adc_conf.voltage2_end>2.43</app_adc_conf.voltage2_end>
+    <app_adc_conf.hyst>0.04</app_adc_conf.hyst>
+    <app_adc_conf.voltage_start>0.69</app_adc_conf.voltage_start>
+    <app_adc_conf.voltage_end>2.09</app_adc_conf.voltage_end>
+    <app_adc_conf.voltage_center>1.42</app_adc_conf.voltage_center>
+    <app_adc_conf.voltage2_start>0.89</app_adc_conf.voltage2_start>
+    <app_adc_conf.voltage2_end>2.42</app_adc_conf.voltage2_end>
     <app_adc_conf.use_filter>1</app_adc_conf.use_filter>
     <app_adc_conf.safe_start>1</app_adc_conf.safe_start>
     <app_adc_conf.cc_button_inverted>0</app_adc_conf.cc_button_inverted>
@@ -47,7 +47,7 @@
     <app_adc_conf.throttle_exp>0</app_adc_conf.throttle_exp>
     <app_adc_conf.throttle_exp_brake>0</app_adc_conf.throttle_exp_brake>
     <app_adc_conf.throttle_exp_mode>2</app_adc_conf.throttle_exp_mode>
-    <app_adc_conf.ramp_time_pos>0.3</app_adc_conf.ramp_time_pos>
+    <app_adc_conf.ramp_time_pos>0.01</app_adc_conf.ramp_time_pos>
     <app_adc_conf.ramp_time_neg>0.1</app_adc_conf.ramp_time_neg>
     <app_adc_conf.multi_esc>0</app_adc_conf.multi_esc>
     <app_adc_conf.tc>0</app_adc_conf.tc>
