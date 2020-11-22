@@ -48,7 +48,7 @@
     <app_adc_conf.throttle_exp_brake>0</app_adc_conf.throttle_exp_brake>
     <app_adc_conf.throttle_exp_mode>2</app_adc_conf.throttle_exp_mode>
     <app_adc_conf.ramp_time_pos>0.01</app_adc_conf.ramp_time_pos>
-    <app_adc_conf.ramp_time_neg>0.1</app_adc_conf.ramp_time_neg>
+    <app_adc_conf.ramp_time_neg>0.01</app_adc_conf.ramp_time_neg>
     <app_adc_conf.multi_esc>0</app_adc_conf.multi_esc>
     <app_adc_conf.tc>0</app_adc_conf.tc>
     <app_adc_conf.tc_max_diff>3000</app_adc_conf.tc_max_diff>
