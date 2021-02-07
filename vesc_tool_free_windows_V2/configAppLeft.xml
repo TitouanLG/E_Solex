@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <APPConfiguration>
-    <controller_id>12</controller_id>
+    <controller_id>70</controller_id>
     <timeout_msec>1000</timeout_msec>
     <timeout_brake_current>0</timeout_brake_current>
     <send_can_status>0</send_can_status>
@@ -32,12 +32,12 @@
     <app_ppm_conf.smart_rev_max_duty>0.07</app_ppm_conf.smart_rev_max_duty>
     <app_ppm_conf.smart_rev_ramp_time>3</app_ppm_conf.smart_rev_ramp_time>
     <app_adc_conf.ctrl_type>1</app_adc_conf.ctrl_type>
-    <app_adc_conf.hyst>0.04</app_adc_conf.hyst>
-    <app_adc_conf.voltage_start>0.69</app_adc_conf.voltage_start>
-    <app_adc_conf.voltage_end>2.07</app_adc_conf.voltage_end>
-    <app_adc_conf.voltage_center>1.41</app_adc_conf.voltage_center>
+    <app_adc_conf.hyst>0.03</app_adc_conf.hyst>
+    <app_adc_conf.voltage_start>0.85</app_adc_conf.voltage_start>
+    <app_adc_conf.voltage_end>2.57</app_adc_conf.voltage_end>
+    <app_adc_conf.voltage_center>1.73</app_adc_conf.voltage_center>
     <app_adc_conf.voltage2_start>0.88</app_adc_conf.voltage2_start>
-    <app_adc_conf.voltage2_end>2.41</app_adc_conf.voltage2_end>
+    <app_adc_conf.voltage2_end>2.71</app_adc_conf.voltage2_end>
     <app_adc_conf.use_filter>1</app_adc_conf.use_filter>
     <app_adc_conf.safe_start>1</app_adc_conf.safe_start>
     <app_adc_conf.cc_button_inverted>0</app_adc_conf.cc_button_inverted>

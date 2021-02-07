@@ -4,14 +4,14 @@
     <comm_mode>0</comm_mode>
     <motor_type>2</motor_type>
     <sensor_mode>0</sensor_mode>
-    <l_current_max>60</l_current_max>
+    <l_current_max>80</l_current_max>
     <l_current_min>-60</l_current_min>
-    <l_in_current_max>100</l_in_current_max>
-    <l_in_current_min>-60</l_in_current_min>
+    <l_in_current_max>99</l_in_current_max>
+    <l_in_current_min>-30</l_in_current_min>
     <l_abs_current_max>150</l_abs_current_max>
     <l_min_erpm>-100000</l_min_erpm>
     <l_max_erpm>100000</l_max_erpm>
-    <l_erpm_start>0.92</l_erpm_start>
+    <l_erpm_start>0.8</l_erpm_start>
     <l_max_erpm_fbrake>300</l_max_erpm_fbrake>
     <l_max_erpm_fbrake_cc>1500</l_max_erpm_fbrake_cc>
     <l_min_vin>8</l_min_vin>
@@ -46,8 +46,8 @@
     <hall_table__6>4</hall_table__6>
     <hall_table__7>-1</hall_table__7>
     <hall_sl_erpm>2000</hall_sl_erpm>
-    <foc_current_kp>0.0095</foc_current_kp>
-    <foc_current_ki>11.99</foc_current_ki>
+    <foc_current_kp>0.0103</foc_current_kp>
+    <foc_current_ki>14.3</foc_current_ki>
     <foc_f_sw>25000</foc_f_sw>
     <foc_dt_us>0.12</foc_dt_us>
     <foc_encoder_inverted>0</foc_encoder_inverted>
@@ -61,10 +61,10 @@
     <foc_sensor_mode>0</foc_sensor_mode>
     <foc_pll_kp>2000</foc_pll_kp>
     <foc_pll_ki>30000</foc_pll_ki>
-    <foc_motor_l>9.54e-06</foc_motor_l>
-    <foc_motor_r>0.012</foc_motor_r>
-    <foc_motor_flux_linkage>0.005091</foc_motor_flux_linkage>
-    <foc_observer_gain>3.858e+07</foc_observer_gain>
+    <foc_motor_l>1.027e-05</foc_motor_l>
+    <foc_motor_r>0.0143</foc_motor_r>
+    <foc_motor_flux_linkage>0.004752</foc_motor_flux_linkage>
+    <foc_observer_gain>3.097e+07</foc_observer_gain>
     <foc_observer_gain_slow>0.3</foc_observer_gain_slow>
     <foc_duty_dowmramp_kp>10</foc_duty_dowmramp_kp>
     <foc_duty_dowmramp_ki>200</foc_duty_dowmramp_ki>
